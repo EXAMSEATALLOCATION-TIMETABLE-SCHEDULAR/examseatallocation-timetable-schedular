@@ -34,14 +34,21 @@ A Java-based desktop application that streamlines the process of allocating stud
 ## 📁 Project Structure
 
 ExamSeatingSystem/
-SwingUI.java # Main UI file for user interaction
-StudentInfo.java # Handles student details
-SeatingLogic.java # Core logic for room allocation
-Room.java # Room class for seat tracking
-ExamScheduler.java # Handles timetable generation
-students.txt # Input: student data (multiple allowed)
-subjects.txt # Input: subject list with exam dates
-README.md # Project documentation
+-SwingUI.java # Main UI file for user interaction
+
+-StudentInfo.java # Handles student details
+
+-SeatingLogic.java # Core logic for room allocation
+
+-Room.java # Room class for seat tracking
+
+-ExamScheduler.java # Handles timetable generation
+
+-students.txt # Input: student data (multiple allowed)
+
+-subjects.txt # Input: subject list with exam dates
+
+-README.md # Project documentation
 
 
 
