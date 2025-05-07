@@ -59,15 +59,7 @@ ExamSeatingSystem/
 7. Use **Visualize** for grid-based room layout view.
 8. Use **Generate Timetable** to see the scheduled exams.
 
-## 📝 File Format Guidelines
 
-- **students.txt**
-Section-A, John Doe, 23CS001
-Section-B, Jane Smith, 23IT021
-
-- **subjects.txt**
-Data Structures, 2025-05-12
-Operating Systems, 2025-05-15
 
 ## 🔒 Constraints
 
